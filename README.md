@@ -5,10 +5,16 @@
 
 ### :woman_technologist: &nbsp;About Me :
 I'm a Java Developer from Poland.
-- 🔭 I’m currently looking for a first job as a Software Engineer.
+- 🔭 I’m currently looking for a first job as a Software Engineer **(check out my tech stack)**.
 - ⚡ In my free time I contribute to my portfolio and read tech articles.
 - 🌱 I’m currently learning cloud solutions - GCP
-- 📫 Reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Igor&nbsp;Bykowski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igor-bykowski)
+
+### 👯 &nbsp;Get in touch with me: 
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://www.igorbykowski.pl/#gh-light-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://www.igorbykowski.pl/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/igor-bykowski/#gh-dark-mode-only)
+[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/igor-bykowski/#gh-light-mode-only)
 
 
 ### 🛠 &nbsp;Tech Skills and Tools :
@@ -37,19 +43,4 @@ I'm a Java Developer from Poland.
 </a>
 
 
-
 <p align="center"><img src="https://komarev.com/ghpvc/?username=lyingparachute&style=flat-square&color=blue" alt=""></p>
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
