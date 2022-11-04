@@ -9,7 +9,8 @@ I'm a Java Developer from Poland.
 - ⚡ In my free time I contribute to my portfolio and read tech articles.
 - 🌱 I’m currently learning cloud solutions - GCP
 
-### 👯 &nbsp;Get in touch with me: 
+### 👯 &nbsp;Get in touch: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://www.igorbykowski.pl/#gh-light-mode-only)
 [![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://www.igorbykowski.pl/#gh-dark-mode-only)
 &nbsp;&nbsp;
