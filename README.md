@@ -5,9 +5,9 @@
 
 ### :woman_technologist: &nbsp;About Me :
 I'm a Java Developer from Poland.
-- 🔭 I’m currently looking for a first job as a Software Engineer **(check out my tech stack)**.
+- 🔭 I’m currently working as a Software Engineer **(check out my tech stack)**.
 - ⚡ In my free time I contribute to my portfolio and read tech articles.
-- 🌱 I’m currently learning cloud solutions - GCP
+- 🌱 I’m currently learning cloud solutions - AWS
 
 ### 👯 &nbsp;Get in touch: 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
