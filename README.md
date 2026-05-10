@@ -1,47 +1,84 @@
-<p align="center"><img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/></p>
-
-
-<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-
-### :woman_technologist: &nbsp;About Me :
-I'm a Java Developer from Poland.
-- 🔭 I’m currently working as a Software Engineer **(check out my tech stack)**.
-- ⚡ In my free time I contribute to my portfolio and read tech articles.
-- 🌱 I’m currently learning cloud solutions - AWS
-
-### 👯 &nbsp;Get in touch: 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-light.svg)](https://www.igorbykowski.pl/#gh-light-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/globe-dark.svg)](https://www.igorbykowski.pl/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-dark.svg)](https://www.linkedin.com/in/igor-bykowski/#gh-dark-mode-only)
-[![website](https://github.com/codeSTACKr/codeSTACKr/blob/master/img/linkedin-light.svg)](https://www.linkedin.com/in/igor-bykowski/#gh-light-mode-only)
-
-
-### 🛠 &nbsp;Tech Skills and Tools :
-
 <p align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" width="50" height="50" title="Hibernate"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="50" height="50" title="JUnit5"/>&nbsp;
-  <img src="https://www.thymeleaf.org/images/thymeleaf.png" width="50" height="50" title="Thymeleaf"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="50" height="50" title="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Flyway_logo.svg/1920px-Flyway_logo.svg.png" title="Flyway"  alt="Flyway" width="50" height="50"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="50" height="50"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="GitHub" />&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="50" height="50" title="Intellij IDEA"/>&nbsp;
+  <img src="./assets/ai-backend-agent-hero.svg" alt="Igor Bykowski - Backend and AI Agent Engineering" width="100%" />
 </p>
 
+<h1 align="center">Hi, I'm Igor Bykowski</h1>
+<h3 align="center">Software Engineer from Poland building backend systems and learning production AI agent engineering.</h3>
 
-### 🔥 &nbsp;My GitHub Stats
-<div align="center">
-<a href="https://git.io/streak-stats">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=lyingparachute&show_icons=true&hide_border=true&theme=nord"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyingparachute&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
-</a>
+<p align="center">
+  <a href="https://www.igorbykowski.pl/">
+    <img src="https://img.shields.io/badge/Portfolio-0B1220?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/igor-bykowski/">
+    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=lyingparachute&style=for-the-badge&color=38bdf8&label=Profile+views" alt="Profile views" />
+</p>
 
+---
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=lyingparachute&style=flat-square&color=blue" alt=""></p>
+### What I build
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Backend systems</h3>
+      <p>Java and Spring Boot services with clean boundaries, SQL persistence, migrations, testing and cloud-native delivery.</p>
+    </td>
+    <td width="50%">
+      <h3>AI agent foundations</h3>
+      <p>Agent workflows, tool calling, retrieval, evals and observability for model-powered applications that can be debugged and improved.</p>
+    </td>
+  </tr>
+</table>
+
+### Current direction
+
+- Building toward **AI agent engineering**: orchestrators, tools, memory, retrieval and human-in-the-loop flows.
+- Designing **LLM-ready APIs**: structured inputs, typed outputs, recovery hints and safe execution boundaries.
+- Learning production-grade **RAG**: embeddings, vector search, hybrid retrieval and dataset-driven evaluation.
+- Keeping backend fundamentals sharp: **Java, Spring Boot, PostgreSQL, Docker, Kubernetes and AWS**.
+
+### Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,kubernetes,aws,git,github,idea&theme=dark" alt="Java, Spring, PostgreSQL, MySQL, Docker, Kubernetes, AWS, Git, GitHub, IntelliJ IDEA" />
+</p>
+
+### AI engineering focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square&logo=openai&logoColor=A7F3D0" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Tool%20Calling-111827?style=flat-square&logo=protocols.io&logoColor=38BDF8" alt="Tool Calling" />
+  <img src="https://img.shields.io/badge/RAG-111827?style=flat-square&logo=databricks&logoColor=FDE68A" alt="RAG" />
+  <img src="https://img.shields.io/badge/Vector%20Search-111827?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/LLM%20Evals-111827?style=flat-square&logo=checkmarx&logoColor=A7F3D0" alt="LLM Evals" />
+  <img src="https://img.shields.io/badge/Tracing-111827?style=flat-square&logo=opentelemetry&logoColor=FDE68A" alt="Tracing" />
+  <img src="https://img.shields.io/badge/Guardrails-111827?style=flat-square&logo=auth0&logoColor=C084FC" alt="Guardrails" />
+  <img src="https://img.shields.io/badge/MCP-111827?style=flat-square&logo=serverless&logoColor=38BDF8" alt="MCP" />
+</p>
+
+### 2026+ skills I care about
+
+| Area | What I practice |
+| --- | --- |
+| Agentic workflows | Orchestration, task state, tool design, retries and human approvals |
+| Retrieval | RAG, embeddings, vector stores, hybrid search and context selection |
+| Reliability | Evals, traces, regression datasets, observability and cost/latency control |
+| Security | Prompt-injection awareness, sandboxing, permission boundaries and safe actions |
+| Backend craft | Clean architecture, API contracts, SQL, tests, containers and cloud delivery |
+
+### GitHub signal
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyingparachute&theme=github_dark" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyingparachute&theme=github_dark" alt="GitHub stats summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyingparachute&theme=github_dark" alt="Repositories per language" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lyingparachute&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=A7F3D0&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
